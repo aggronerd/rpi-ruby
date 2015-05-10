@@ -13,3 +13,5 @@ After you have installed Docker on your Raspberry Pi clone this repo and run:
 
 docker build .
 ```
+
+You can overwrite the environmental vales in the Dockerfile to download and build different versions of Ruby.
